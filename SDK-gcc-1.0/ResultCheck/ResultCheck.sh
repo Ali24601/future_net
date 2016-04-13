@@ -1,0 +1,1 @@
+./ResultCheck ../casehard/case1
